@@ -82,5 +82,5 @@
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=irashen6" alt="Visitor Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=irashen6&count=75" alt="Visitor Count" />
 </p>
