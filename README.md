@@ -12,9 +12,6 @@
   <a href="mailto:shenzy97zxfdd@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shenzy97zxfdd@gmail.com" alt="Email">
   </a>
-  <a href="tel:+8615161693280">
-    <img src="https://img.shields.io/badge/-Phone-25D366?style=flat-square&logo=WhatsApp&logoColor=white&link=tel:+8615161693280" alt="Phone">
-  </a>
   <a href="https://github.com/irashen6">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/irashen6" alt="GitHub">
   </a>
