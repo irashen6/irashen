@@ -45,10 +45,10 @@
 
 ### AI & Data Science
 <p>
-  <img src="https://img.shields.io/badge/-AI%20Agent-9B59B6?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/-RAG-3498DB?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MCP%2FA2A-2ECC71?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/-LLM%20Fine-tuning-F39C12?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agent-9B59B6?style=flat" />
+  <img src="https://img.shields.io/badge/RAG-3498DB?style=flat" />
+  <img src="https://img.shields.io/badge/MCP%2FA2A-2ECC71?style=flat" />
+  <img src="https://img.shields.io/badge/LLM%20Fine--tuning-F39C12?style=flat" />
 </p>
 
 ---
@@ -70,7 +70,13 @@
 ## 🕹️ Interactive Games!
 
 <p align="center">
-  <iframe src="./index.html" width="920" height="620" style="border: none; border-radius: 15px; box-shadow: 0 20px 60px rgba(0,0,0,0.5);"></iframe>
+  <a href="https://irashen6.github.io/irashen">
+    <img src="https://img.shields.io/badge/-%E7%82%B9%E5%87%BB%E6%B8%B2%E6%8F%9B%E6%B8%B8%E6%B8%B8-FF6B6B?style=for-the-badge&logo=gamepad&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://irashen6.github.io/irashen">🎮 点击这里体验 QQ堂风格小游戏</a>
 </p>
 
 ---
