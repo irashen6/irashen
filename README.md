@@ -65,6 +65,10 @@
   <a href="https://github.com/irashen6/Number6">🎬 AI Generated Videos - Number6</a>
 </p>
 
+<p align="center">
+  <img src="./images/%E9%A3%9E%E4%B9%A6%E6%96%87%E6%A1%A3%20-%20%E5%9B%BE%E7%89%87%20(1).jpeg" alt="Surfing" width="60%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
+</p>
+
 ---
 
 ## 🕹️ Interactive Games!
@@ -77,6 +81,10 @@
 
 <p align="center">
   <a href="https://irashen6.github.io/irashen">🎮 点击这里体验 QQ堂风格小游戏</a>
+</p>
+
+<p align="center">
+  <em>最近热衷于把以前写的本地游戏包括毕设课设的大作业，用AI复现一遍，感觉1小时就把以前一星期的大作业写完了，离谱 😱</em>
 </p>
 
 ---
