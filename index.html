@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Irashen - QQ堂风格主页</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="game-container">
+        <div class="game-header">
+            <h1 class="title-glow">IRASHEN</h1>
+            <div class="player-info">
+                <div class="avatar"></div>
+                <div class="stats">
+                    <div class="hp-bar">
+                        <div class="hp-fill"></div>
+                    </div>
+                    <div class="level">Lv. MAX</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="game-canvas">
+            <div class="grid">
+                <div class="wall"></div>
+                <div class="wall"></div>
+                <div class="wall"></div>
+                <div class="wall"></div>
+                <div class="wall"></div>
+                <div class="wall"></div>
+                <div class="wall"></div>
+                <div class="wall"></div>
+                <div class="wall"></div>
+                <div class="wall"></div>
+                <div class="wall"></div>
+                <div class="wall"></div>
+            </div>
+
+            <div class="character player" id="player">
+                <div class="character-body"></div>
+                <div class="bubble"></div>
+            </div>
+
+            <div class="items">
+                <div class="item powerup" data-type="speed"></div>
+                <div class="item powerup" data-type="bomb"></div>
+                <div class="item powerup" data-type="range"></div>
+            </div>
+
+            <div class="about-section">
+                <div class="card">
+                    <h2 class="card-title">🎮 关于我</h2>
+                    <p class="card-content">大家好！我是Irashen，热爱编程和游戏开发的开发者。</p>
+                </div>
+                <div class="card">
+                    <h2 class="card-title">🚀 技术栈</h2>
+                    <div class="tech-tags">
+                        <span class="tech-tag">Go</span>
+                        <span class="tech-tag">JavaScript</span>
+                        <span class="tech-tag">React</span>
+                        <span class="tech-tag">Node.js</span>
+                    </div>
+                </div>
+                <div class="card">
+                    <h2 class="card-title">💬 联系我</h2>
+                    <div class="social-links">
+                        <a href="#" class="social-link">GitHub</a>
+                        <a href="#" class="social-link">邮箱</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="game-controls">
+            <button class="btn btn-start" onclick="startGame()">开始游戏</button>
+            <button class="btn btn-reset" onclick="resetGame()">重置</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

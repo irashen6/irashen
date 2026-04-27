@@ -1,0 +1,13 @@
+{
+  "name": "irashen",
+  "version": "1.0.0",
+  "description": "QQ堂风格个人主页",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 8080",
+    "start": "python3 -m http.server 8080"
+  },
+  "keywords": ["qqt", "homepage", "game-style"],
+  "author": "irashen",
+  "license": "MIT"
+}
