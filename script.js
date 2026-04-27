@@ -1,7 +1,7 @@
-let gameStarted = true;
+let gameStarted = false;
 let playerX = 400;
 let playerY = 250;
-let speed = 15;
+let speed = 5;
 let bubbles = [];
 let itemsCollected = 0;
 
@@ -105,16 +105,16 @@ function updateScore() {
     console.log('Items collected:', itemsCollected);
 }
 
-// 确保函数在全局作用域
-window.startGame = function() {
+function startGame() {
     gameStarted = true;
     player.style.animation = 'none';
     player.style.animation = 'playerMove 0.2s steps(4) infinite';
     
+    // 添加粒子效果
     createParticles();
-};
+}
 
-window.resetGame = function() {
+function resetGame() {
     gameStarted = false;
     playerX = 400;
     playerY = 250;
@@ -122,11 +122,13 @@ window.resetGame = function() {
     player.style.top = playerY + 'px';
     itemsCollected = 0;
     
+    // 清除所有气泡
     bubbles.forEach(b => b.element.remove());
     bubbles = [];
     
+    // 重新生成道具
     regenerateItems();
-};
+}
 
 function regenerateItems() {
     const itemsContainer = document.querySelector('.items');

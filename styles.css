@@ -341,22 +341,6 @@ body {
     box-shadow: 0 4px 10px rgba(0,0,0,0.3);
 }
 
-.work-item {
-    font-size: 13px;
-    color: #333;
-    margin-bottom: 8px;
-    padding-left: 10px;
-    border-left: 3px solid #e74c3c;
-}
-
-.profile-img {
-    width: 100%;
-    max-width: 200px;
-    border-radius: 8px;
-    margin-top: 10px;
-    border: 3px solid #e74c3c;
-}
-
 .game-controls {
     height: 80px;
     background: linear-gradient(90deg, #2c3e50, #34495e);
